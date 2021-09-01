@@ -1,4 +1,4 @@
-# Some Psudo-Random Notes
+# Some Pseudo-Random Notes
 
 # Contents
 * [Compiler Construction and Models of Computation](#ccmc)
